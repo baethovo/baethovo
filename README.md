@@ -1,7 +1,5 @@
-<center>
-
 ## Hello friend !👋
-<font color="BurlyWood">Thanks for Visit😊</font>
+Thanks for Visit😊
 
 ### Learning
 
@@ -18,5 +16,3 @@
 ![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=for-the-badge)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge) 
-
-</center>
